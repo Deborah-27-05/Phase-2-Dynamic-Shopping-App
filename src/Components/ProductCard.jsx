@@ -1,3 +1,4 @@
+import React from 'react';
 const ProductCard = ({ product, addToCart }) => {
   return (
     <div className="border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition">
